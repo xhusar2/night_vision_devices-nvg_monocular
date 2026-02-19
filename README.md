@@ -7,6 +7,17 @@
 
 This project is a DIY night-vision monocular built from a RunCam Night Eagle 3 v2 analog camera and a small OLED display in a custom 3D‑printed housing. The case is designed to mount either on a head harness or on any Picatinny rail, making it usable as a helmet-mounted NVG or a simple rail-mounted viewer. It works with any IR torch or illuminator, is cheap and easy to assemble from off‑the‑shelf parts, and because the signal path is fully analog, latency is extremely low—so you can wear it for long periods without the motion sickness or headaches common with digital solutions.
 
+## Features
+
+- **Fully analog signal path** — No digital processing; minimal latency, no motion sickness from display lag.
+- **Head harness or rail** — Use on a head strap or on any of the above mounts.
+- **Adjustable brightness** — Buttons for brighter/dimmer display.
+- **CNC aluminium camera housing** — Dissipates heat so the camera doesn't overheat or soften plastic.
+- **Off-the-shelf parts** — RunCam + small display; easy to source and replace.
+- support for multiple mounts
+  - **Picatinny mount** — Optional piece that screws on for Picatinny rail (weapon, helmet rail, etc.).
+  - **Wilcox dovetail shoe** — Adapter for Wilcox-style dovetail mounts (common on bump/ballistic helmets).
+  - **J-arm mount** — Compatible with J-arm style NVG mounts.
 
 ## BOM
 
@@ -56,7 +67,6 @@ The camera itself can get quite hot to the touch, if encased in PLA, it can melt
 
 ## Future improvements
 
-- Better housing with support for picatiny mount on the other side
 - Integrated power attachment
 - Onboard recording using RunCam module and SD-card
 - Weather sealing - gaskets and o-rings for outdoor abuse
