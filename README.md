@@ -40,7 +40,7 @@ See [Bill of Materials](docs/BOM.md) for complete parts list.
     - Connect the display to the camera
     - Install the display board in the slot on the image
 ![housing](photos/20260218_212612.jpg)
-    - Insert the display part into the housing, and fasten with 2 screws (M4)
+    - Insert the display part into the housing, and fasten with 2 screws (M3x6)
     - Adjust focus as needed. 
 8. Power-up and basic test
     - Connect a stable 5 V power supply.
